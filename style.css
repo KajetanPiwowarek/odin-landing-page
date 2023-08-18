@@ -72,14 +72,11 @@ a {
 .bt-main {
     background-color: #3882F6;
     color: #F9FAF8;
-    padding-left: 16px;
-    padding-right: 16px;
+    padding: 6px;
+    padding-left: 20px;
+    padding-right: 20px;
     border-radius: 6px;
     border-color: #3882F6;
-}
-
-.main-image {
-    
 }
 
 /* images section styles */
@@ -143,10 +140,21 @@ a {
     text-align: left;
     padding: 0;
     margin: 8px;
+
+    color: #1F2937;
+    font-size: 36px;
+    font-style: italic;
 }
 
 .quote-author {
     text-align: right;
     padding: 0;
     margin: 8px;
+
+    color: #1F2937;
+    font-size: 18px;
+    font-weight: bold;
 }
+
+/* bottom section styles */
+
